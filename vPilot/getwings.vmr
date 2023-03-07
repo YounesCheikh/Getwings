@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+
+<!-- Getwings -->
+<ModelMatchRule CallsignPrefix="GEW" TypeCode="A320" ModelName="FenixA320_GEWGEWAL" />
+<ModelMatchRule CallsignPrefix="GEW" TypeCode="A320" ModelName="FenixA320_GTWGTWAK" />
+<ModelMatchRule CallsignPrefix="GEW" TypeCode="TBM9" ModelName="TBM930-GEWAX" />
+<ModelMatchRule CallsignPrefix="GEW" TypeCode="B738" ModelName="PMDG-B738-GEWAM" />
+<ModelMatchRule CallsignPrefix="GEW" TypeCode="B738" ModelName="B737-800X GetWings G-WMAM" />
+
+
+<!--
+Missing:
+Cargo: UPS, DHL
+Passenger: 
+-->
+
+</ModelMatchRuleSet>
