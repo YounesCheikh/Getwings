@@ -1,0 +1,134 @@
+{
+  "content": [
+	{
+	  "path": "cockpitsetup.xml",
+	  "size": 854,
+	  "date": 1655136423097
+	},
+	{
+	  "path": "liveryData.json",
+	  "size": 4949,
+	  "date": 1654533218022
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/aircraft.cfg",
+	  "size": 698,
+	  "date": 1655136397173
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_CFM_L_ALBD.PNG.dds",
+	  "size": 33554560,
+	  "date": 1654531707092
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_CFM_L_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843498000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_CFM_R_ALBD.PNG.dds",
+	  "size": 33554560,
+	  "date": 1654531707092
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_CFM_R_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843460000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_FUSE_1_ALBD.PNG.dds",
+	  "size": 33554560,
+	  "date": 1655136278308
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_FUSE_1_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843502000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_FUSE_2_ALBD.PNG.dds",
+	  "size": 33554560,
+	  "date": 1655135805447
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_FUSE_2_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843442000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_FUSE_3_ALBD.PNG.dds",
+	  "size": 33554560,
+	  "date": 1655136231524
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_FUSE_3_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843454000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_TAIL_ALBD.PNG.DDS",
+	  "size": 33554560,
+	  "date": 1654527374991
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_TAIL_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843436000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_TAIL_COMP.PNG.DDS",
+	  "size": 89478660,
+	  "date": 1652843484000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_TAIL_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1652843482000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_WINGLETS_ALBD.PNG.DDS",
+	  "size": 8388736,
+	  "date": 1654512844754
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_WINGLETS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843492000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_WING_L_ALBD.PNG.DDS",
+	  "size": 33554560,
+	  "date": 1654535320905
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_WING_L_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843490000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_WING_R_ALBD.PNG.DDS",
+	  "size": 44739384,
+	  "date": 1652843448000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/A320_WING_R_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1652843448000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/texture.CFG",
+	  "size": 79,
+	  "date": 1635781800000
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/thumbnail.JPG",
+	  "size": 1580554,
+	  "date": 1654535823158
+	},
+	{
+	  "path": "SimObjects/Airplanes/FNX320_GTWGTWAK/TEXTURE.GTWGTWAK/thumbnail_small.JPG.JPG",
+	  "size": 248050,
+	  "date": 1654535916329
+	}
+  ]
+}

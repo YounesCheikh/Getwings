@@ -1,0 +1,184 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/aircraft.cfg",
+      "size": 1030,
+      "date": 133212345428583717
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/model.BW/model.cfg",
+      "size": 290,
+      "date": 133212345428593728
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/NN_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132992034120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/NN_ALBD.PNG.dds",
+      "size": 174948,
+      "date": 133033595100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_DECAL1_ALBD.PNG.DDS",
+      "size": 5592580,
+      "date": 133019685640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_DECAL1_ALBD.PNG.DDS.FLAGS",
+      "size": 36,
+      "date": 132895087340000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_DECAL1_ALBD.PNG.DDS.json",
+      "size": 157,
+      "date": 132939207580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_ENG_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 133074587180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_ENG_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132888468320000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_ENG_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132871887960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_ENG_COMP.PNG.dds",
+      "size": 16777364,
+      "date": 133019193580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F1_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 133074651960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132888468260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F1_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 133074632240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F1_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132888468360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F2_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 133074830440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132888468380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F2_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 133068064540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F2_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132889065360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F3_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 133074652580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F3_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132888468540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F3_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 133068064300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_F3_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132889065240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_TAIL_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 133074656460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132888468280000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINFR_ALBD.PNG.DDS",
+      "size": 16532,
+      "date": 133018772780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINFR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132889065080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINFR_COMP.PNG.DDS",
+      "size": 11064,
+      "date": 132889065140000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINFR_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132889065140000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINGL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132846689040000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINGL_ALBD.PNG.dds",
+      "size": 22369796,
+      "date": 133074666680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINGR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132846689180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/PMDG_NG3_WINGR_ALBD.PNG.dds",
+      "size": 22369796,
+      "date": 133074623640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/texture.CFG",
+      "size": 141,
+      "date": 133016312940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/thumbnail.JPG",
+      "size": 182266,
+      "date": 133032196180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/PMDG-B738-GEWAM/texture.G-EWAM/thumbnail_small.JPG",
+      "size": 54011,
+      "date": 133032196340000000
+    }
+  ]
+}

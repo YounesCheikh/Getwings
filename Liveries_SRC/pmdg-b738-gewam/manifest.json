@@ -1,0 +1,15 @@
+{
+    "dependencies": [],
+    "content_type": "AIRCRAFT",
+    "title": "Liveries",
+    "manufacturer": "Getwings",
+    "creator": "Getwings",
+    "package_version": "1.0.0",
+    "minimum_game_version": "1.20.6",
+    "release_notes": {
+        "neutral": {
+            "LastUpdate": "",
+            "OlderHistory": ""
+        }
+    }
+}

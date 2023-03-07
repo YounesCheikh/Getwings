@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "TBM930-GEWAX",
+  "manufacturer": "Daher",
+  "creator": "Getwings",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.25.10",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

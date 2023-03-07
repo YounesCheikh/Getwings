@@ -1,0 +1,134 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/aircraft.cfg",
+      "size": 708,
+      "date": 132973368412169949
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_CFM_L_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973339191595338
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_CFM_L_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973339190225332
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_CFM_R_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973338831325233
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_CFM_R_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973338829919147
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_FUSE_1_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973339244358621
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_FUSE_1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973339242907266
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_FUSE_2_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973338663954052
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_FUSE_2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973338662293871
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_FUSE_3_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973338775407130
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_FUSE_3_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973338774087444
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_TAIL_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973338613048680
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_TAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973338611480992
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_TAIL_COMP.PNG.DDS",
+      "size": 89478660,
+      "date": 132973339064979096
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_TAIL_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132973339061609866
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WINGLETS_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 132973339136570933
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WINGLETS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973339136510915
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WING_L_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973339123710884
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WING_L_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973339122014515
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WING_L_COMP.PNG.DDS",
+      "size": 89478660,
+      "date": 132973339491886718
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WING_L_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132973339488367334
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WING_R_ALBD.PNG.DDS",
+      "size": 44739384,
+      "date": 132973338723596673
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/A320_WING_R_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132973338721869641
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/texture.CFG",
+      "size": 79,
+      "date": 132802770007420209
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/thumbnail.JPG",
+      "size": 183184,
+      "date": 132905551223565777
+    },
+    {
+      "path": "SimObjects/Airplanes/FNX320_GEWGEWAL/TEXTURE.GEWGEWAL/thumbnail_small.JPG",
+      "size": 44292,
+      "date": 132905547886615302
+    }
+  ]
+}

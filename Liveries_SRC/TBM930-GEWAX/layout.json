@@ -1,0 +1,59 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/aircraft.cfg",
+	  "size": 2078,
+	  "date": 1660939823248
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/Model.TBM930-GEWAX/model.CFG",
+	  "size": 270,
+	  "date": 1660826136396
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
+	  "size": 22020,
+	  "date": 1657364723514
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1657364643779
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/TBM_930_AIRFRAME_PLANE_ALBD.PNG.dds",
+	  "size": 89478660,
+	  "date": 1660924310588
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/TBM_930_AIRFRAME_PLANE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1660212147354
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS",
+	  "size": 1398276,
+	  "date": 1660765515142
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/TBM_930_AIRFRAME_PROP_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1660826174514
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/texture.CFG",
+	  "size": 186,
+	  "date": 1660826201567
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/thumbnail.jpg",
+	  "size": 251871,
+	  "date": 1660922817461
+	},
+	{
+	  "path": "SimObjects/Airplanes/TBM930-GEWAX/TEXTURE.TBM930-GEWAX/thumbnail_small.jpg",
+	  "size": 62318,
+	  "date": 1660922839963
+	}
+  ]
+}
